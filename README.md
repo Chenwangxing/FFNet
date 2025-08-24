@@ -4,6 +4,7 @@
 
 We provide here the results of our model prediction error tests in the UNIV scenario with and without noise.
 **The proposed method can effectively resist the influence of noise!**
+We will provide the specific test code immediately after the first review is completed.
 
 **************************************************
 Model being tested are: ['./checkpoints/FFNet/univ']

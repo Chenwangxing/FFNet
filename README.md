@@ -3,7 +3,9 @@
 **To facilitate reviewers to verify the performance of our proposed method, we will provide test and model codes upon request after the first review.**
 
 We provide here the results of our model prediction error tests in the UNIV scenario with and without noise.
+
 **The proposed method maintains stable prediction performance under varying Gaussian noise inputs, demonstrating its robustness to noise!**
+
 We will provide the specific test code immediately after the first review is completed.
 
 **************************************************
